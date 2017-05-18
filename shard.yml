@@ -1,0 +1,9 @@
+name: sysinfo.cr
+version: 0.1.0
+
+authors:
+  - Amit Budhu <abudhu@gmail.com>
+
+crystal: 0.22.0
+
+license: MIT
