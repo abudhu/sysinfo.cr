@@ -1,2 +1,2 @@
 require "spec"
-require "../src/sysinfo.cr"
+require "../src/sysinfo"

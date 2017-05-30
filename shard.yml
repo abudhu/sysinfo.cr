@@ -1,8 +1,12 @@
-name: sysinfo.cr
+name: sysinfo
 version: 0.1.0
 
 authors:
   - Amit Budhu <abudhu@gmail.com>
+
+targets:
+  sysinfo:
+    main: src/sysinfo.cr
 
 crystal: 0.22.0
 

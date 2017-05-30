@@ -1,22 +1,12 @@
-# sysinfo.cr
+# sysinfo
 
 TODO: Write a description here
 
 ## Installation
 
-Add this to your application's `shard.yml`:
-
-```yaml
-dependencies:
-  sysinfo.cr:
-    github: [your-github-name]/sysinfo.cr
-```
+TODO: Write installation instructions here
 
 ## Usage
-
-```crystal
-require "sysinfo.cr"
-```
 
 TODO: Write usage instructions here
 
@@ -26,7 +16,7 @@ TODO: Write development instructions here
 
 ## Contributing
 
-1. Fork it ( https://github.com/[your-github-name]/sysinfo.cr/fork )
+1. Fork it ( https://github.com/[your-github-name]/sysinfo/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
